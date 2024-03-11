@@ -7,7 +7,7 @@ It as tables branches, employees, books, customers, issue_status, and return_sta
 
 1. Retrieves the book title, category, and rental price of all books .
 
-2. Lists the names of employees along with their salaries, sorted in descending order of salar.
+2. Lists the names of employees along with their salaries, sorted in descending order of salar
 
 3. Retrieves the titles of books issued along with the names of customers who have issued them.
 
